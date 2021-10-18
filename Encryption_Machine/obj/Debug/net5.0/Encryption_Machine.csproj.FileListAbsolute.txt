@@ -1,0 +1,16 @@
+C:\Users\slipk\source\repos\Encryption_Machine\Encryption_Machine\bin\Debug\net5.0\Encryption_Machine.exe
+C:\Users\slipk\source\repos\Encryption_Machine\Encryption_Machine\bin\Debug\net5.0\Encryption_Machine.deps.json
+C:\Users\slipk\source\repos\Encryption_Machine\Encryption_Machine\bin\Debug\net5.0\Encryption_Machine.runtimeconfig.json
+C:\Users\slipk\source\repos\Encryption_Machine\Encryption_Machine\bin\Debug\net5.0\Encryption_Machine.runtimeconfig.dev.json
+C:\Users\slipk\source\repos\Encryption_Machine\Encryption_Machine\bin\Debug\net5.0\Encryption_Machine.dll
+C:\Users\slipk\source\repos\Encryption_Machine\Encryption_Machine\bin\Debug\net5.0\ref\Encryption_Machine.dll
+C:\Users\slipk\source\repos\Encryption_Machine\Encryption_Machine\bin\Debug\net5.0\Encryption_Machine.pdb
+C:\Users\slipk\source\repos\Encryption_Machine\Encryption_Machine\obj\Debug\net5.0\Encryption_Machine.csproj.AssemblyReference.cache
+C:\Users\slipk\source\repos\Encryption_Machine\Encryption_Machine\obj\Debug\net5.0\Encryption_Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slipk\source\repos\Encryption_Machine\Encryption_Machine\obj\Debug\net5.0\Encryption_Machine.AssemblyInfoInputs.cache
+C:\Users\slipk\source\repos\Encryption_Machine\Encryption_Machine\obj\Debug\net5.0\Encryption_Machine.AssemblyInfo.cs
+C:\Users\slipk\source\repos\Encryption_Machine\Encryption_Machine\obj\Debug\net5.0\Encryption_Machine.csproj.CoreCompileInputs.cache
+C:\Users\slipk\source\repos\Encryption_Machine\Encryption_Machine\obj\Debug\net5.0\Encryption_Machine.dll
+C:\Users\slipk\source\repos\Encryption_Machine\Encryption_Machine\obj\Debug\net5.0\ref\Encryption_Machine.dll
+C:\Users\slipk\source\repos\Encryption_Machine\Encryption_Machine\obj\Debug\net5.0\Encryption_Machine.pdb
+C:\Users\slipk\source\repos\Encryption_Machine\Encryption_Machine\obj\Debug\net5.0\Encryption_Machine.genruntimeconfig.cache
